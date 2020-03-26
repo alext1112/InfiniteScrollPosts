@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Inika&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inika', sans-serif;
+}
